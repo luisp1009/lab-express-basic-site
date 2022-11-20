@@ -1,0 +1,102 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    background-image: url(/images/background.jpeg);
+    
+}
+
+
+
+
+.mainImage{
+    width: 90vw;
+    margin: auto;
+    
+}
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif
+  }
+  
+  header > div {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  nav {
+    width: 600px;
+    
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+    margin-right: 5rem;
+  }
+  
+  li{
+    font-size: 20px;
+    border-left: 2px solid white;
+    padding-left: 10px;
+   
+    
+
+  }
+  .topColor{
+    background-color:peru;
+    margin-bottom: 1rem;
+    
+  }
+
+  h1{
+    color: white;
+    margin-left: 4rem;
+  }
+
+  p {
+    width: 90vw;
+    color: white;
+    margin: auto;
+    font-size: 1.2rem;
+    background-color: rgba(54, 25, 25, .5);
+    padding: 30px;
+    letter-spacing: 1px;
+    
+
+  }
+ 
+  .imagesGallery{
+    display: flex;
+    display: inline;
+    justify-content: center;
+    margin: auto;
+    width: 80vw;
+  }
+
+  .img1{
+    width: 50rem;
+  
+  }
+  .img2{
+    width: 50rem;
+  }
+  .img3{
+    width: 50rem;
+  }
+  .img4{
+    width: 50rem;
+  }
+  .img5{
+    width: 50rem;
+  }
